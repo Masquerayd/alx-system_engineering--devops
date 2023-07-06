@@ -1,6 +1,9 @@
 #!/bin/bash
 read -p "please enter file name: " fnam
-read -p "please enter test number: " num 
+read -p "please enter test number: " num
+
+wc -1 $fnam
+tail -1 $fnam | wc -c
 chmod u+x $fnam
 git add .
 git commit -m $fnam$num
