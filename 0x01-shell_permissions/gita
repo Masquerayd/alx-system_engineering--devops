@@ -1,9 +1,7 @@
 #!/bin/bash
-read -p "please enter file name :" fnam
+read -p "please enter file name: " fnam
+read -p "please enter test number: " num 
 chmod u+x $fnam
-echo Starting git add, commit and push.
 git add .
-echo Please enter commit
-read -p "Commit: " usecommit
-git commit -m $usecommit
+git commit -m $fnam$num
 git push
