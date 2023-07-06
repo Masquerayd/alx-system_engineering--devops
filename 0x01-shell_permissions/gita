@@ -2,7 +2,7 @@
 read -p "please enter file name: " fnam
 read -p "please enter test number: " num
 
-wc -1 $fnam
+wc -l $fnam
 tail -1 $fnam | wc -c
 chmod u+x $fnam
 git add .
