@@ -1,0 +1,7 @@
+#!/bin/bash
+echo Starting git add, commit and push.
+git add .
+echo Please enter commit
+read -p "Commit: " usecommit
+git commit -m $usecommit
+git push
