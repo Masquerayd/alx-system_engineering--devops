@@ -1,4 +1,6 @@
 #!/bin/bash
+read -p "please enter file name :" fnam
+chmod u+x $fnam
 echo Starting git add, commit and push.
 git add .
 echo Please enter commit
