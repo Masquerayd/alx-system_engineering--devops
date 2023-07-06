@@ -1,7 +1,10 @@
 #!/bin/bash
 read -p "please enter file name: " fnam
 read -p "please enter test number: " num
+
+echo Line: 
 wc -l $fnam
+Characters: 
 tail -1 $fnam | wc -c
 
 chmod u+x $fnam
