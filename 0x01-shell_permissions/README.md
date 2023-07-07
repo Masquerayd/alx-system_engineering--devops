@@ -1,4 +1,4 @@
-#Shell Permissions
+#Shell Permission22s
 
 we take a deep dive into shell permissions and we test how they work inorder to better understand them. We look at commands such as chmod , sudo , su , chown, chgrp
 
