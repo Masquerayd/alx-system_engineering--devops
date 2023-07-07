@@ -1,2 +1,2 @@
 #!/bin/bash
-find /alx/alx-system_engineering-devops/0x01-shell_permissions -type d -exec chmod -R ugo+x {} \ 
+chmod -R ugo+x /alx/alx-system_engineering-devops/0x01-shell_permissions
