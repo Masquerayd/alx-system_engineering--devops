@@ -3,4 +3,4 @@
 
 There are a could of bash files each doing something different , i have just creasted my own script to help me upload on git 
 
-Now i am creating a list that will show hidden files , this will be done through scripts 
+33Now i am creating a list that will show hidden files , this will be done through scripts 
