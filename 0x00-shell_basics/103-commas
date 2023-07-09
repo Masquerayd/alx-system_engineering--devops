@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --classify -m
+ls --classify -m -a
