@@ -14,8 +14,11 @@ Prints a script that displays a confused smiley
 
 incomplete
 
-# Task 
+# Task 3 
 
 prints two files
 
+# Task 
+
+prints the last 10 lines from a file 
 
