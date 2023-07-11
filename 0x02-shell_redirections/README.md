@@ -75,6 +75,10 @@ print three lines after searching for the words that i was looking for
 seems to be taking too long to check , will try restarting 
 ## Tash 18 
 
-has been updated 
+has been updated
+
+## task 19 
+
+Replacing spercific characters . using sed 
 
 Selecting the opposite lines
