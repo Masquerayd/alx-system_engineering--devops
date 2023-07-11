@@ -48,6 +48,7 @@ Deleting only .js files
 
 ## task 11
 
+finding only directories
 
 ## Task 12
 
