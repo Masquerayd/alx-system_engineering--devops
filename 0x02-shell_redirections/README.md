@@ -85,6 +85,10 @@ tr was used
 
 used tr again
 
+## Task 21
+
+file was reversed succesfully
+
 Replacing spercific characters . using sed 
 
 Selecting the opposite lines
