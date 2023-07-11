@@ -25,3 +25,7 @@ prints the last 10 lines from a file
 ## Task 5
 
 prints the first 10 line from the file
+
+## Task 
+
+on task 6 we need to only print one line and it seems like its the combination for head and tails
