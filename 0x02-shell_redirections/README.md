@@ -62,4 +62,12 @@ complete
  
 testing 
 
-Displays new files 
+## Task 15 
+
+Managed to count the files
+
+## Task 16 
+
+print three lines after searching for the words that i was looking for 
+
+
