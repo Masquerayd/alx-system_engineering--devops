@@ -79,6 +79,12 @@ has been updated
 
 ## task 19 
 
+tr was used 
+
+## TASK 20
+
+used tr again
+
 Replacing spercific characters . using sed 
 
 Selecting the opposite lines
