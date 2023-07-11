@@ -40,4 +40,9 @@ going to print the content of ls -la into a file
 
 ## Task 9 
 
-Going to try and duplicate the last line thinking of using tail 
+Going to try and duplicate the last line thinking of using tail
+
+## Task 10 
+
+Deleting only .js files
+ 
