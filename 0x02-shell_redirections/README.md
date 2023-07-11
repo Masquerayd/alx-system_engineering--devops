@@ -73,6 +73,8 @@ print three lines after searching for the words that i was looking for
 ## Task 17
 
 seems to be taking too long to check , will try restarting 
- 
+## Tash 18 
+
+has been updated 
 
 Selecting the opposite lines
