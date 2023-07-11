@@ -70,6 +70,9 @@ Managed to count the files
 
 print three lines after searching for the words that i was looking for 
 
-## Task 17 
+## Task 17
+
+seems to be taking too long to check , will try restarting 
+ 
 
 Selecting the opposite lines
