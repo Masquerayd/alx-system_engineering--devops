@@ -52,4 +52,14 @@ finding only directories
 
 ## Task 12
 
+not complete
+
+## Task 13
+
+not complete
+
+## Task 14 
+ 
+testing 
+
 Displays new files 
