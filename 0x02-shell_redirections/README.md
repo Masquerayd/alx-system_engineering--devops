@@ -45,4 +45,10 @@ Going to try and duplicate the last line thinking of using tail
 ## Task 10 
 
 Deleting only .js files
- 
+
+## task 11
+
+
+## Task 12
+
+Displays new files 
