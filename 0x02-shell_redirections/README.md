@@ -26,6 +26,16 @@ prints the last 10 lines from a file
 
 prints the first 10 line from the file
 
-## Task 
+## Task 6 
 
 on task 6 we need to only print one line and it seems like its the combination for head and tails
+
+## Task 7
+
+this task is incomplete
+
+## Task 8
+
+going to print the content of ls -la into a file
+
+
