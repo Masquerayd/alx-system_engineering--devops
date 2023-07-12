@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$PATH" 
+echo "$(($(echo "$PATH" | grep -c :)+1))"
